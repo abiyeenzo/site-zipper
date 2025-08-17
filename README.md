@@ -102,10 +102,10 @@ Vous êtes libre de l’utiliser et de le modifier. Voir [LICENSE](LICENSE) pour
 ![EN](https://github.com/user-attachments/assets/19e4fa01-8ce0-4362-b0fb-bf843ce9ef4c)
 
 **Français (FR)**  
-<img width="960" height="671" alt="FR" src="https://github.com/user-attachments/assets/25eae430-9b50-47ec-a9ee-727f5c064bbf" />
+![FR](https://github.com/user-attachments/assets/25eae430-9b50-47ec-a9ee-727f5c064bbf)
 
 **Русский (RU)**  
-<img width="960" height="671" alt="RU" src="https://github.com/user-attachments/assets/1cc48e1a-4132-49ec-8625-954eee2f022f" />
+![RU](https://github.com/user-attachments/assets/1cc48e1a-4132-49ec-8625-954eee2f022f)
 
 **中文 (ZH)**  
-<img width="960" height="671" alt="ZH" src="https://github.com/user-attachments/assets/bd4a5c17-c48c-4bf7-a1ee-acbf51bb85ac" />
+![ZH](https://github.com/user-attachments/assets/bd4a5c17-c48c-4bf7-a1ee-acbf51bb85ac)
