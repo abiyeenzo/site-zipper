@@ -100,3 +100,8 @@ Vous êtes libre de l’utiliser et de le modifier. Voir [LICENSE](LICENSE) pour
 
 ![Capture](https://github.com/user-attachments/assets/19e4fa01-8ce0-4362-b0fb-bf843ce9ef4c)
 
+<img width="960" height="671" alt="image" src="https://github.com/user-attachments/assets/25eae430-9b50-47ec-a9ee-727f5c064bbf" />
+
+<img width="960" height="671" alt="image" src="https://github.com/user-attachments/assets/1cc48e1a-4132-49ec-8625-954eee2f022f" />
+
+<img width="960" height="671" alt="image" src="https://github.com/user-attachments/assets/bd4a5c17-c48c-4bf7-a1ee-acbf51bb85ac" />
