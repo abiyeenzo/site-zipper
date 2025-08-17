@@ -97,9 +97,12 @@ Vous êtes libre de l’utiliser et de le modifier. Voir [LICENSE](LICENSE) pour
 ---
 ## Capture d’écran
 
-Voici les captures d’écran du dashboard multilingue de **Site Zipper**, organisées en carré 4×4 :
+Voici les captures d’écran du dashboard multilingue de **Site Zipper**, organisées en carré 2×2 :
 
-| English (EN) | Français (FR) | Русский (RU) | 中文 (ZH) |
-|--------------|---------------|--------------|-----------|
+| English (EN) | Français (FR) |
+|--------------|---------------|
 | ![EN](https://github.com/user-attachments/assets/19e4fa01-8ce0-4362-b0fb-bf843ce9ef4c) | ![FR](https://github.com/user-attachments/assets/25eae430-9b50-47ec-a9ee-727f5c064bbf) |
-|![RU](https://github.com/user-attachments/assets/1cc48e1a-4132-49ec-8625-954eee2f022f) | ![ZH](https://github.com/user-attachments/assets/bd4a5c17-c48c-4bf7-a1ee-acbf51bb85ac) |
+
+| Русский (RU) | 中文 (ZH) |
+|--------------|-----------|
+| ![RU](https://github.com/user-attachments/assets/1cc48e1a-4132-49ec-8625-954eee2f022f) | ![ZH](https://github.com/user-attachments/assets/bd4a5c17-c48c-4bf7-a1ee-acbf51bb85ac) |
