@@ -1,6 +1,10 @@
+
 # Site Zipper – Dashboard Pro
 
-![PHP](https://img.shields.io/badge/PHP-8.0+-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Responsive](https://img.shields.io/badge/Responsive-Yes-orange)
+![PHP](https://img.shields.io/badge/PHP-8.0+-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-orange)
+![Languages](https://img.shields.io/badge/Languages-4-brightgreen)
 
 Site Zipper est un outil PHP léger et responsive permettant de **scanner, zipper et gérer l’archive complète d’un site web** via une interface web simple et multilingue.
 
@@ -94,7 +98,5 @@ Vous êtes libre de l’utiliser et de le modifier. Voir [LICENSE](LICENSE) pour
 
 ## Capture d’écran
 
-<img width="960" height="671" alt="image" src="https://github.com/user-attachments/assets/19e4fa01-8ce0-4362-b0fb-bf843ce9ef4c" />
+![Capture](https://github.com/user-attachments/assets/19e4fa01-8ce0-4362-b0fb-bf843ce9ef4c)
 
-
----
